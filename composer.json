@@ -1,0 +1,13 @@
+{
+    "name": "loudi/softwaretest",
+    "authors": [
+        {
+            "name": "Lou",
+            "email": "2233672@slu.edu.ph"
+        }
+    ],
+    "require-dev": {
+        "php-webdriver/webdriver": "^1.1",
+        "phpunit/phpunit": "^11.4"
+    }
+}

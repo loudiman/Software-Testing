@@ -87,10 +87,6 @@ This document serves as both a reference guide and tutorial for extending the te
 
 The framework includes a [TransactionService](src/TransactionService.php) for simulating and tracking test transactions.
 
-## License
-
-MIT
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

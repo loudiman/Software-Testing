@@ -1,0 +1,39 @@
+{
+    "test_duration": {
+        "seconds": 3600,
+        "hours": 1,
+        "formatted": "1 hour(s)"
+    },
+    "total_checks": 59,
+    "successful_checks": 59,
+    "errors": 0,
+    "reliability_rate": 100,
+    "average_response_time": 1.363893169467732,
+    "error_details": []
+}
+{
+    "test_duration": {
+        "seconds": 14400,
+        "hours": 4,
+        "formatted": "4 hour(s)"
+    },
+    "total_checks": 236,
+    "successful_checks": 236,
+    "errors": 0,
+    "reliability_rate": 100,
+    "average_response_time": 1.2305997054455644,
+    "error_details": []
+}
+{
+    "test_duration": {
+        "seconds": 28800,
+        "hours": 8,
+        "formatted": "8 hour(s)"
+    },
+    "total_checks": 470,
+    "successful_checks": 470,
+    "errors": 0,
+    "reliability_rate": 100,
+    "average_response_time": 1.317083111215145,
+    "error_details": []
+}
